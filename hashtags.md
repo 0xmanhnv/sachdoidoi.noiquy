@@ -1,6 +1,6 @@
 ﻿# Danh sách #hashtag trên “Sachdoidoi.com - Chia sẻ tài liệu, tư vấn học lập trình (Ask Learn Share )”
 
-Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, [Blog Lập trình - Chia sẻ tài liệu, tư vấn học lập trình]( https://www.facebook.com/groups/sachdoidoi/yêu cầu mọi thành viên sử dụng
+Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, [Blog Lập trình - Chia sẻ tài liệu, tư vấn học lập trình]( https://www.facebook.com/groups/sachdoidoi/) yêu cầu mọi thành viên sử dụng
 
 [#hashtag](https://www.facebook.com/help/587836257914341) khi đăng bài trong nhóm.
 
